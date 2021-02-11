@@ -108,7 +108,7 @@ Executivos ->
 
  ### Acredite no que você diz
 
-nao 
+
 
 ## Use recurso visuais
 
@@ -131,7 +131,7 @@ Recursos sobre visualização de dados:
 
 A visualização de dados anda junto com a contação de histórias.
 
-**Como contar histórias : ** pensar na histórias, depois, criar as melhores visualizações de dados. 
+**Como contar histórias: ** pensar na histórias, depois, criar as melhores visualizações de dados. 
 
 Gráficos e relatórios pode ajudar a contar história, mas é a narrativa que cria um vínculo do publico com significado maior.
 
@@ -164,13 +164,65 @@ Remova textos desnecessários
 
 
 
+### Como usar metáforas
+
+As metáforas associam algo que você conhece a algo que  você não conhece.
+
+Ao contar história de ciência de dados usa se metáforas para contar novas ideias, se faz o novo parecer familiar, onde o publico mantem uma relação com a história. Isso realiza uma  **reação em cadeia** .
+
+Pense em metáforas como qualquer coisa que associe algo desconhecido a algo conhecido.
+
+ Metáforas em Ciência de Dados: Data Warehouses, Mineração de dados, Data Lakes.
+
+Coleta de dados no internet com dados não estruturados sobre um determinado filme:
+
+| sem metáfora                                                 | com metáfora                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Análise de dados não estruturados sugere que há um grande interesse | Os burburinhos on-line  de entretenimento sugerem que as pessoas querem ver esse filme. |
 
 
 
+As metáforas eliminam as barreiras entre você e as pessoas. Em ciência de dados é arriscado  usar termos complexo, isso coloca uma barreira entre você o publico. 
 
 
 
+### Como definir a visão 
 
+Técnicas para criar uma visão que estimule a mudanças:
+
+Criar contrastes: Contrastes separam o contexto atual daquele declarado na visão.
+
+histórias de ciência de dados são uteis para cria uma visão para o futura da organização.
+
+Abordagem **EVA** 
+
+**Envolvimento  - Visão - Autenticidade**
+
+Como Envolver o público:
+
+- Cative-os com  a história
+- Conte uma história interessante
+- Concentre-se em um enredo atraente e crie personagem fortes
+- Defina uma visão clara
+- Comunique-se com autenticidade   
+
+
+
+### Como motivar o público
+
+Segundo Platão, quem conta histórias governam a sociedade, e consegue isso porque motiva as pessoas a ouvir e a fazer mudanças.
+
+sete passos que faz as pessoas a agirem 
+
+Lidere  o publico
+
+1. Conheça as pessoas
+2. Crie um vinculo emocional
+3. Forneça algum contexto
+4. Faça as pessoas se importem
+5. Use metáforas
+6. Use um contraste claro
+7. Crie um chamado a ação claro
 
 
 
